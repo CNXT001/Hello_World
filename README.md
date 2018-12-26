@@ -1,2 +1,2 @@
 # Hello_World
-This is my first repository,just for exercise.
+  i don't kown what to say,just write something to different with master.
